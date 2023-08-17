@@ -1,3 +1,6 @@
+/* GOOGLE FONTS IMPORT */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: o;
@@ -8,12 +11,12 @@
 /* GENERAL STYLES */
 
 body {
-    min-height:100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 
     /* GENERIC PROJECT STYLES */
-    color:#3a3a3a;
+    color: #3a3a3a;
 }
 
 
