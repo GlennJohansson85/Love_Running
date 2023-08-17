@@ -85,12 +85,21 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-/* MAIN */
+
+#logo {
+    font-size: 280%;
+    line-height: 70px;
+    margin: 0 0.5rem;
+}
+/* MAIN CONTENT */
 main {
+    /* Push main content down to accommodate larger header */
+    margin-top: 79px;
+
     background-color: lightblue;
     /* MAKE MAIN ELEMENT TAKE UP ANY SURPLUS SPACE TO PUSH FOOTER DOWN */
     flex: 1 0 auto;
-    margin-top: 47px;
+    
 }
 
 /* FOOTER */
