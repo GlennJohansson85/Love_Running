@@ -8,3 +8,9 @@ assignees: ''
 ---
 
 In order to **publish polls** I can as a **admin**  **enhance interactions on the website**.
+
+* Acceptance Criteria 1:
+
+* Acceptance Criteria 2:
+
+* Acceptance Criteria 3:
